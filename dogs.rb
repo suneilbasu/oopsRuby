@@ -15,3 +15,6 @@ end
 d1 = Dog.new('Whippet','Benzy')
 d1.bark
 d1.display
+
+d2 = Dog.new('Grey Hound', 'Socks')
+d2.display
